@@ -1,0 +1,13 @@
+header {
+    display: flex;
+    
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: inline;
+    
+}
